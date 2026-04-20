@@ -1,8 +1,8 @@
-\# 《情境教学视域下的语文大单元教学策略研究——以〈师说〉〈拿来主义〉〈谏逐客书〉为例》访谈数据》
+# 《情境教学视域下的语文大单元教学策略研究——以〈师说〉〈拿来主义〉〈谏逐客书〉为例》访谈数据》
 
 
 
-\## 论文摘要
+# 论文摘要
 
 
 
@@ -10,11 +10,11 @@
 
 
 
-\## 关键词：情境教学；大单元教学；教学策略
+## 关键词：情境教学；大单元教学；教学策略
 
 
 
-\## Abstract
+## Abstract
 
 
 
@@ -22,11 +22,11 @@ Under the guidance of core competencies stipulated in the new curriculum standar
 
 
 
-\## KEY WORDS：Situated Learning; Large-Unit Teaching; Teaching Strategies
+## KEY WORDS：Situated Learning; Large-Unit Teaching; Teaching Strategies
 
 
 
-本文档仅供学术使用，禁止商用。
+# 本文档仅供学术使用，禁止商用。
 
 ·
 
